@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poisonivy91
-- 👀 I’m interested in Astrology, Space and Science
+- 👋 Hi, I’m Shaina
+- 👀 I’m interested in Tech, Space and Science
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me at sbowser916@gmail.com
 
 <!---
