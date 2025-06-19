@@ -1,7 +1,7 @@
 ### Hey there, I'm Shaina! 👋  
 Welcome to my little corner of the internet 🌌
 
-I'm a passionate tech apprentice exploring the exciting world of **Python**, **Machine Learning**, and **Cloud Computing**. Right now, I'm sharpening my skills in **front-end development**, **UX/UI design**, and **AWS Cloud** — with a love for building sleek, responsive interfaces and smart applications that solve real problems.
+I'm a passionate tech Software Engineering Student exploring the exciting world of **Python**, **Machine Learning**, and **Cloud Computing**. Right now, I'm sharpening my skills in **front-end development**, **UX/UI design**, and **AWS Cloud** — with a love for building sleek, responsive interfaces and smart applications that solve real problems.
 
 ✨ **What drives me?**  
 - Crafting beautiful front-end experiences with React and Tailwind  
