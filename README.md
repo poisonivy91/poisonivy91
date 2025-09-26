@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="C:\Users\sbows\Downloads\github-header-banner.png" alt="Hey! I am Shaina — Software Engineering Student" />
-</div>
+![Shaina Banner](./github-header-banner.png)
+
 
 ### Hey there, I'm Shaina! 👋  
 Welcome to my little corner of the internet 🌌
