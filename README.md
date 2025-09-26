@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/poisonivy91/poisonivy91/main/github-header-banner.png" alt="Hey! I am Shaina — Software Engineering Student" />
+</div>
+
 ### Hey there, I'm Shaina! 👋  
 Welcome to my little corner of the internet 🌌
 
