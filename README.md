@@ -1,7 +1,10 @@
 # Hi, I'm Shaina 👋
 
-Software Engineering student with enterprise development experience at Accenture.  
-Currently focused on building modern web applications using JavaScript, React, and API-driven architecture.
+Software Engineering Student | Frontend Developer (React, Next.js)
+Building real-world apps with API integration, AI features, and backend workflows
+
+Creative dev exploring the intersection of AI, design, and user experience ✦
+I build thoughtful, user-centered apps that feel as good as they function
 
 ## What I Build
 • Full-stack web applications  
